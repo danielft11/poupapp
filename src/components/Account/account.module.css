@@ -1,0 +1,36 @@
+.account {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    p {
+        font-size: 15px;
+        line-height: 120%;
+        margin: 0;
+        color: var(--neutral-text)
+    }
+}
+
+.accountName {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+
+    p {
+        font-weight: 500;
+    }
+}
+
+.accountDetails {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-size: 15px;
+    line-height: 120%;
+    font-weight: 500;
+
+    .balanceText {
+        font-weight: 500;
+    }
+}

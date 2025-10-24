@@ -1,0 +1,19 @@
+.h1 {
+    color: var(--neutral-text);
+    margin: 0;
+    font-weight: 700;
+    font-size: 31px;
+    line-height: 120%;
+}
+
+.h2 {
+    color: var(--neutral-text);
+    margin: 0;
+}
+
+.p {
+    color: var(--neutral-text);
+    margin: 0;
+    font-size: 16px;
+    line-height: 120%;
+}

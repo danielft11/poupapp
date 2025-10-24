@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.grid {
+    display: grid;
+    align-items: stretch;
+    gap: 24px;
+    grid-template-columns: repeat(2, 1fr); /* fr significa "fração" do espaço disponível, ou seja, 2 colunas com tamanhos iguais */
+}

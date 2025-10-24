@@ -1,0 +1,32 @@
+.transaction {
+    display: flex;
+    justify-content: space-between;
+
+    p {
+        margin: 0;
+    }
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-size: 15px;
+    line-height: 120%;
+    font-weight: 500;
+}
+
+.date {
+    color: var(--neutral-text);
+    font-size: 14px;
+    line-height: 20px;
+    ;
+}
+
+.income {
+    color: var(--secondary-income);
+}
+
+.expense {
+    color: var(--secondary-expense);
+}
