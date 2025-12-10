@@ -5,7 +5,7 @@ O **PoupApp** é um projeto fictício de gerenciamento de finanças pessoais, cr
 
 ![Tela poupapp](poupapp.png)
 
-O conteúdo do projeto é totalmente estático, visto que o objetivo é o estudo de CSS Modules para estilização de interface.
+O conteúdo do projeto é totalmente estático, visto que o objetivo é o estudo de CSS Modules para estilização de interface. Você pode acessar o projeto ao vivo através do endereço https://poupapp-theta.vercel.app/
 
 ## 🛠 Tecnologias  
 - React (versão utilizada: 19.1.1)  
