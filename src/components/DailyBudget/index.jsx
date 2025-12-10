@@ -1,4 +1,4 @@
-import style from './dailyBudget.module.css'
+import style from './dailybudget.module.css'
 
 const formatter = new Intl.NumberFormat("pt-BR", { style: "currency", currency: "BRL" })
 
